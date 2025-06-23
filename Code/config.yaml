@@ -1,0 +1,3 @@
+# Configuration file for the project
+DATA_PATH: "data/KJS_data.csv"
+RESULTS_PATH: "results/"
